@@ -52,7 +52,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="text-center">Meet LBRY</h2>
+            <h2 class="text-center">Meet Reilly</h2>
             <div class="row-1">
               <div class="row">
                 <div class="col-xs-12 col-sm-6">
