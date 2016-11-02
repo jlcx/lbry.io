@@ -87,6 +87,8 @@ class Controller
     $router->get(['/ios', 'get-ios'], 'DownloadActions::executeGet');
     $router->get('/roadmap', 'ContentActions::executeRoadmap');
 
+    $router->get('/youtube', 'PublisherActions::executeYoutube');
+
     $router->get(['/press-kit.zip', 'press-kit'], 'ContentActions::executePressKit');
 
     $router->post('/postcommit', 'OpsActions::executePostCommit');
