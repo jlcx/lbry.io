@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/img/youtube/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="57x57" href="/img/youtube/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/img/youtube/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/img/youtube/apple-touch-icon-114x114.png">
