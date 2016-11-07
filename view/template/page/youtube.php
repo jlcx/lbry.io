@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="text text-center">
-              <h1><font color=red>Take Back Control of Your Content!</font></h1>
+              <h1><font color=yellow>Take Back Control of Your Content!</font></h1>
             </div>
           </div>
         </div>
