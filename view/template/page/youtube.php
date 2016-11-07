@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="text text-center">
-              <h1>Freedom at Last</h1>
+              <h1>Take Back Control of Your Content!</h1>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="text-center">Meet Reilly</h2>
+            <h2 class="text-center">Meet LBRY</h2>
             <div class="row-1">
               <div class="row">
                 <div class="col-xs-12 col-sm-6">
