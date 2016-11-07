@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-xs-12">
             <div class="text text-center">
-              <h1><font color=red>YouTubers!</font> Take Back Control of Your Content</h1>
+              <h1><font color=red>YouTubers!</font> Take Back Control.</h1>
             </div>
           </div>
         </div>
