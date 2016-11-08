@@ -54,6 +54,7 @@
           <div class="col-xs-12">
             <h2 class="text-center">Meet LBRY</h2>
             <div class="row-1">
+              <h4>test</h4>
               <div class="row">
                 <div class="col-xs-12 col-sm-6">
                   <div class="inner-content left">
