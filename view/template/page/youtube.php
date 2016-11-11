@@ -143,7 +143,7 @@
                     <p class="digit">1</p>
                   </div>
                   <div class="item">
-                    <p>Clicking below will authenticate with YouTube and grant permission for your content be available on the decentralized LBRY network. You may revoke this permission and unpublish* your content at any time.</p>
+                    <p>Clicking below will authenticate with YouTube and grant permission for your content to be available on the decentralized LBRY network. You may revoke this permission and unpublish* your content at any time.</p>
                   </div>
                 </div>
               </div>
